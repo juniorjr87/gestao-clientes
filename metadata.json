@@ -1,0 +1,5 @@
+{
+  "name": "RestoExpenses",
+  "description": "Restaurant expense management system with master login, supplier tracking, and monthly financial reports.",
+  "requestFramePermissions": []
+}
